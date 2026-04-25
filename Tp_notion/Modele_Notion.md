@@ -1,7 +1,7 @@
 # Projet To-Do List
 
 ## 📋 Tableau Kanban
-*(À créer en utilisant la vue "Board" ou "Tableau" dans Notion)*
+
 
 **Colonnes :**
 - [ ] À faire
@@ -29,7 +29,7 @@
 - **Problème** : Conflit de fusion Git lors du merge des branches `feature`.
   - **Description** : Deux développeurs ont modifié la même ligne dans le fichier `index.js` (l'un a ajouté l'ajout de tâche, l'autre la suppression au même endroit).
   - **Solution** : Utilisation de l'outil de résolution de conflits intégré à VS Code. Acceptation des deux modifications manuellement et création d'un commit de résolution.
-  - **Lien vers le commit** : *[Collez ici le lien GitHub de votre commit de merge]*
+  - **Lien vers le commit** : https://github.com/imad-elades/Mes_Tps/
 
 ---
 
@@ -43,7 +43,4 @@
 - Mise en place du tableau Kanban synchronisé avec l'avancée du développement.
 - Implémentation des fonctionnalités de base (Ajout, Suppression, Check).
 
-### Points à améliorer :
-- La communication lors de la création de branches pour éviter les conflits de fusion.
-- Améliorer le design (CSS) de la To-Do List dans les prochaines itérations.
-- Penser à ajouter des tests unitaires pour chaque nouvelle fonctionnalité.
+
